@@ -24,7 +24,7 @@ cask "openarch" do
   end
 
   name "openarch"
-  desc "Install and operate OpenArch with Docker Compose"
+  desc "Unofficial CLI to install and operate Hyland OpenArch with Docker Compose"
   homepage "https://github.com/AlfrescoLabs/openarch-cli"
 
   livecheck do
